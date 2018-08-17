@@ -1,6 +1,6 @@
 var fSpeed = false;
 var tFast = (Math.random() * 10000) + 1000;
-var tSlow = (Math.random() * 60000) + 10000;
+var tSlow = (Math.random() * 600000) + 100000;
 var r = "http://www.tombetthauser.com/kernal"
 var t;
 
@@ -20,3 +20,4 @@ window.onkeyup = function(e) {
 setInterval(function(){
 	window.location = r;
 }, t);
+
