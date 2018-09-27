@@ -1,7 +1,7 @@
 var fSpeed = false;
 var tFast = (Math.random() * 10000) + 1000;
 var tSlow = (Math.random() * 600000) + 100000;
-var r = "http://www.tombetthauser.com/link/hub"
+var r = "https://tombetthauser.github.io/hub/"
 var t;
 
 if(fSpeed === true){
