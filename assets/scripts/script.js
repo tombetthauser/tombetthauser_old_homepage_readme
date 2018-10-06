@@ -62,28 +62,166 @@ var artist = {
 		'MRK2-FA08 (Mark), 6"x 5" acrylic / panel, 2008'
 	],
 	cv: [
-		'<h5>CONTACT:</h5>',
-		'tombetthauser@gmail.com',
+		"<h5>CONTACT:</h5>",
+		"tombetthauser@gmail.com",
+		"<h5>EDUCATION:</h5>",
+		"Yale University - Master of Fine Arts, 2012",
+		"San Francisco Art Institute - Bachelor of Fine Arts, 2010",
+		"<h5>TEACHING EXPERIENCE:</h5>",
+		"College of Marin, CA - Adjunct Professor, Beginning & Advanced Painting, May 2018 - Present",
+		"West Valley College, San Jose CA - Adjunct Professor, Studio Art / Art History, 2017 - Present",
+		"University of California San Diego CA - Visiting Artist (lecture / studio visits) - Nov 2017",
+		"Wylie & May Louise Jones Gallery, Bakersfield CA - Chief Gallery Director / Curator, 2014 - 2017",
+		"Bakersfield College, CA - Adjunct Professor, Studio Art / Art History, 2014 - 2017",
+		"Cerro Coso Community College, CA - Adjunct Prof. Studio Art / Art History, 2013 - 2017",
+		"Artvoices Magazine, Los Angeles CA - Contributing Writer, 2014 - 2016",
+		"San Francisco Art Institute, CA - Teaching Assistant, 2007 - 2010",
+		"Exploratorium Museum, CA - Explainer / Tactile Dome / Public Programs, 2006 - 2012",
+		"<h5>SELECTED GROUP / SOLO EXHIBITIONS:</h5>",
 
-		'<h5>EDUCATION:</h5>',
-		'Yale University - Master of Fine Arts, 2012',
-		'San Francisco Art Institute - Bachelor of Fine Arts, 2010',
-		
-		'<h5>TEACHING EXPERIENCE:</h5>',
-		'College of Marin, CA – Adjunct Professor, Beginning & Advanced Painting, May 2018 – Present',
-		'West Valley College, San Jose CA – Adjunct Professor, Studio Art / Art History, 2017 – Present',
-		'University of California San Diego CA – Visiting Artist (lecture / studio visits) – Nov 2017',
-		'Wylie & May Louise Jones Gallery, Bakersfield CA – Chief Gallery Director / Curator, 2014 – 2017',
-		'Bakersfield College, CA – Adjunct Professor, Studio Art / Art History, 2014 – 2017',
-		'Cerro Coso Community College, CA – Adjunct Prof. Studio Art / Art History, 2013 – 2017',
-		'Artvoices Magazine, Los Angeles CA – Contributing Writer, 2014 – 2016',
-		'San Francisco Art Institute, CA – Teaching Assistant, 2007 – 2010',
-		'Exploratorium Museum, CA – Explainer / Tactile Dome / Public Programs, 2006 – 2012'
+		"2015​ - PRESENT",
+		"<br>",
+		"Crocker Museum of Art, CA - Big Names Small Art Benefit Auction - May 2018",
+		"WVC Art Gallery, CA - Invitational Faculty Exhibition - Jan 2018",
+		"Diego Rivera Gallery, San Francisco CA - SFAI 2017 Alumni Exhibition - Nov 2017",
+		"San Francisco Art Institute, CA - Installation produced for 3rd Street Open Studios - Apr 2017",
+		"Becky’s Space, Anchorage AK - That’s Not God (with Tom Chung) - Feb 2017",
+		"San Francisco Art Institute, CA - Installation Produced for Residency Open Studios - Dec 2017",
+		"CB1 Gallery, Los Angeles, CA - New Haven Group Exhibition - Jul 2016",
+		"CB1 Gallery, Los Angeles, CA - Labor Intensive Drawing (Curated by Brett Reichman) - Feb 2016",
+		"Rema Hort Mann Foundation, New York, NY - Buy What You Love Benefit Auction - Dec 2015",
+		"Wylie & May Louise Jones Gallery, CA - 2015 Arts Faculty Show - Oct / Nov 2015",
+		"<br>",
+
+		"2010​ - 2015",
+		"<br>",
+		"LRC Gallery, Ridgecrest CA - Dolman Solo Exhibition / Installation - Oct / Nov 2014",
+		"Giuseppe Group Sculpture Park, Mojave CA - Permanent Sculptural Installation - Apr 2014",
+		"Mark’s Garage Gallery, Honolulu HI - Hi Tides Group Exhibition - Aug 2013",
+		"Water McBeer Gallery, San Francisco CA - Prop-Painting Solo Exhibition - Jul 2013",
+		"Gallaria Yusto-Giner, Malaga Spain - Works on Paper Group Exhibition - Sep 2012",
+		"FFDG, San Francisco CA - Cigarettes, Phone Cards and Hip Hop Clothing - May 2012",
+		"Green Gallery, New Haven CT - Thesis Exhibition with Joyce Kalema - Feb 2012",
+		"Green Gallery, New Haven CT - 2nd Year MFA Group Exhibition - Sep 2011",
+		"Exploratorium, San Francisco CA - Tactile Geometry Commissioned Mural - Mar 2011",
+		"<br>",
+
+		"2005​ - 2010",
+		"<br>",
+		"Green Gallery, New Haven CT - 1st Year MFA Group Exhibition - Nov 2010",
+		"Exploratorium, San Francisco CA - Tactile Representation Commissioned Mural - Jul 2010",
+		"San Francisco Art Institute, San Francisco CA - BFA Graduating Exhibition - May 2010",
+		"Peanut Gallery, San Francisco CA - When Worlds Collide Group Exhibition - Jan 2010",
+		"Kipling Pop-Up Gallery, San Francisco CA - Mini-Residency Group Exhibition - Oct 2009",
+		"Live Worms Gallery, San Francisco CA - SFAI Group Exhibition - Jan 2009",
+		"The Pheonix, Petaluma CA - Urban Alcove Volunteer Mural - Dec 2008",
+		"Live Worms Gallery, San Francisco CA - Singles Night Group Exhibition - Aug 2008",
+		"Ar+Space Gallery, San Francisco CA - Living the Dream Group Exhibition - Jan 2008",
+		"Luggage Store Gallery, San Francisco CA - SFAI Group Exhibition - Feb 2007",
+		"Miller Art & Frame, Mill Valley CA - Salon Group Exhibition Curated by Mark Aubert - May 2006",
+
+
+		"<h5>SELECTED PRINT / ONLINE PUBLICATIONS:</h5>",
+
+		"93505 Books, Oakland CA - 3rd Street Studios Residency Program Catalogue - Sep 2017",
+		"93505 Books, Oakland CA - Small Edition Artist’s Book of Drawings - Sep 2015",
+		"FFDC Blog - Exhibition Review, Tom Betthauser at Water Mcbeer - Aug 2013",
+		"Pacolli Pacolli Blog - Exhibition Review, Cigarettes Phone Cards & Clothing - Apr 2012",
+		"Drawn Blog - Featured Artist Tom Betthauser by David Huyck - Nov 2011",
+		"Lost at E Minor Blog - Tom Betthauser’s Detailed Graphite Drawings by Gerry Mak - Nov 2011",
+		"IHLET Blog - Tom Betthauser’s Contemporary Architectural Sketches / Urban Art - Nov 2011",
+		"Espen Art Blog - Amazingly Detailed Pencil Drawings From Tom Betthauser - Nov. 2011",
+		"FFDC Blog - Tom Betthauser Mini Interview - Oct 2011",
+		"We Love Art and Design Blog - Featured Artist Tom Betthauser - Oct 2011",
+		"New American Paintings Issue #93 - Juried MFA Annual Issue - Apr 2011",
+		"Scrapbook Blog - Tom Betthauser, Artist San Francisco - Mar 2010",
+		"Design Milk Blog - Featured Artist Tom Betthauser by Warren King - Feb 2010",
+		"Jaz Jaz Art Blog - The Stunning Art of Tom Betthauser by Warren King - Jan 2010",
+		"Art Business Online - Ar+Space: Living The Dream by Alan Bamburger - May 2008",
+
+
+		"<h5>HONORS / AWARDS:</h5>",
+
+		"San Francisco Art Institute, CA - 3rd Street Studios Residency Program, Sep 2016 - Aug 2017",
+		"LRC Gallery, Ridgecrest CA - Visiting Artist / Lecturer - Oct / Nov 2014",
+		"Robert Schoelkopf Memorial Traveling Fellowship (Yale School of Art) - 2011",
+		"Exploratorium, CA - Visiting / Commissioned Muralist, Mar 2011",
+		"Exploratorium, CA - Visiting / Commissioned Muralist, May 2010",
+		"SFAI Juried Honors Studio Awarded Sep 2009 - May 2010",
+		"Myasnikov Materials Grant - San Francisco CA, 2009 - 2010",
+		"SFAI Juried Honors Studio Awarded Sep 2008 - May 2009",
+		"SFAI Juried Wall-Space Awarded Sep 2007 - May 2008",
+
+
+		"<h5>PORTFOLIO LINKS / WEB DEVELOPMENT PROJECTS:</h5>",
+
+		"Recent Visual Work / Portfolio: www.TomBetthauser.com / portfolio",
+		"Examples of Student Work: www.TomBetthauser.com / studentwork",
+		"Ongoing Student Resource Web Portal: www.TomBetthauser.com / resources",
+		"Non-Profit Artist Web Page Builder / Resource Portal: www.TomBetthauser.com / artpages",
+
+
+		"<h5>CURATORIAL EXPERIENCE:</h5>",
+
+		"Wylie & May Louise Jones Gallery, Bakersfield College CA - Chief Director / Curator, 2014 - 2017",
+		"<br>",
+		"Forms in Decay - Solo Exhibition and Guest Lecture by Artist Daniel Herwitt - Mar / Apr 2017",
+		"New Works - Exhibition of Student Work, Guest Curator Daniel Herwitt (NYC) - Jan / Feb 2017 *",
+		"Panorama Exhibition - Annual Juried Exhibition of New Work by Young Artists - Nov / Dec 2016 2016 / 17",
+		"Faculty Exhibition - New Works by KCCD Arts Faculty - Sep / Oct 2016",
+		"<br>",
+		"New Works - New Student Work, Guest Curator Kyle Coniglio (Montclare Univ.) - Apr / May 2016",
+		"CalArts Recent MFA Group Exhibition - Organized with artist Michael Richards - Feb / Mar 2016",
+		"It’s Bright in Hell - Installation / Lecture by Artist / Publisher Robey Clark (LA) - Dec / Jan 2016 *",
+		"Panorama Exhibition - Annual Juried Exhibition of New Work by Young Artists - Nov 2015",
+		"2015 / 16 Faculty Exhibition - New Works by KCCD Arts Faculty - Sep / Oct 2015",
+		"<br>",
+		"Panorama Exhibition - Annual Juried Exhibition of New Work by Young Artists - Apr / May 2015",
+		"Drapetomania - Large-Scale Installation / Lecture by Tom Chung (Univ. of Alaska) - Mar 2015 *",
+		"New Works - Student Show, Guest Curator / Lecturer Ivan Bridges (Los Angeles) - Feb 2015 * 2014 / 15",
+		"Faculty Exhibition - New Works by KCCD Arts Faculty - Jan 2015",
+		"<br>",
+		"Greys Pinks & Blues - Works by Roni Shneior & Erin Kaczkowski (Los Angeles) - Dec 2014",
+		"Who Sees the Past - Works by Kiki Johnson & Dustin Metz (Los Angeles) - Nov 2014",
+		"The Next Level - Exhibition & Guest Lecture by Artists Ivan Bridges & Thack Olsen - Oct 2014",
+		"Digital Works - Works by Digital Artist Tom Lundquist (Santa Monica College) - Sep 2014",
+		"<br>",
+		"* Visiting Artist Lecture Program Independently Proposed / Initiated Feb 2015",
+
+
+		"<h5>WRITING EXPERIENCE:</h5>",
+
+		"Anchorage Museum - Wall Text for Solo Exhibition by Artist Tom Chung (Univ. of Alaska) - Sep 2018",
+		"<br>",
+		"3rd Street Studios Residency, Independent Catalogue - Chief Editor / Print Coordinator - Sep 2017",
+		"Critical Introduction for Artist Daniel Herwitt Exhibition & Lecture - Jones Gallery, Mar 2017",
+		"Catalogue for Exhibition by Erin Kaczkowski - Chief Editor / Print Coordinator - Feb 2017",
+		"Reflection on New Student Work Exhibition, Curator Daniel Herwitt - Jones Gallery, Jan 2017",
+		"<br>",
+		"Brief History / Introduction for Panorama Student Work Exhibition - Jones Gallery, Nov 2016",
+		"Background Information for New Works by Arts Faculty Exhibition - Jones Gallery, Sep 2016",
+		"Introduction for Student Exhibition Guest Curator Kyle Coniglio - Jones Gallery, Apr 2016",
+		"Context / Introduction for CalArts Recent MFA Group Exhibition - Jones Gallery, Feb 2016",
+		"Introduction for Exhibition / Lecture by Artist / Publisher Robey Clark (LA) - Dec 2016",
+		"Brief History / Introduction for Panorama Student Work Exhibition - Jones Gallery, Nov 2016",
+		"Introduction for New Faculty / KCCD Arts Faculty Exhibition - Jones Gallery, Sep 2016",
+		"<br>",
+		"Art Voices Magazine, Los Angeles CA - Feature Article on Artist Peter Stanick - May 2015",
+		"Brief Introduction for Historic Panorama Student Work Exhibition - Jones Gallery, May 2015",
+		"Critical Introduction for Artist Tom Chung Exhibition & Lecture - Jones Gallery, Mar 2015",
+		"Introduction for Visiting Artist / Lecturer Ivan Bridges, - Jones Gallery, Feb 2015",
+		"Visual Break Down of Arts Faculty Exhibition - Jones Gallery, Jan 2015",
+		"<br>",
+		"Introduction to Works / Exhibition by Roni Shneior & Erin Kaczkowski - Jones Gallery, Dec 2014",
+		"Critical Introduction for Artists Kiki Johnson & Dustin Metz - Jones Gallery, Nov 2014",
+		"Introduction to Exhibition by Artists Ivan Bridges & Thack Olsen - Jones Gallery, Oct 2014",
+		"Background Information / Context for Visiting Artist Tom Lundquist - Jones Gallery, Sep 2014",
+		"Art Voices Magazine, Los Angeles CA - Feature Article on Artist Karen Fitzgerald - Sep 2014"
 	]
 }
 
 
-// script ––––––––––––––––––––––––––––––––––––––––––––––––––
+// script -
 
 
 loadNavbar();
@@ -92,7 +230,7 @@ loadTitle();
 loadCV();
 
 
-// functions ––––––––––––––––––––––––––––––––––––––––––––––––––
+// functions -
 
 
 function loadTitle() {

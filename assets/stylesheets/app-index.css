@@ -59,3 +59,33 @@ button {
 	letter-spacing: .15vw;
 	font-weight: 150;
 }
+
+#icons {
+  background-color: white;
+}
+
+#icons img {
+  opacity: .075;
+  padding: 0;
+  margin: 22.5px 3px 0;
+  transition: .2s;
+  max-width: none;
+}
+
+#icons img:hover {
+  opacity: .3;
+  transition: .2s;
+}
+
+#icons a:nth-child(1) img {
+  width: 24px;
+}
+
+#icons a:nth-child(2) img {
+  width: 20px;
+}
+
+#icons a:nth-child(3) img {
+  width: 21.5px;
+  margin-left: 6px; 
+}
