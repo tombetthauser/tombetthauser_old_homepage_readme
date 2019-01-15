@@ -6,7 +6,7 @@ var artist = {
 		last: 'Betthauser'
 	},
 	work: [
-		'<a target="_blank" href="https://tombetthauser.github.io/anchorage-museum/">Digital Installation / Web Project for Anchorage Museum Performance, 2018 (project link)<br>ES5 Script by Tom Betthauser, Images Collected with Thomas Chung</a>',
+		'<a target="_blank" href="https://tombetthauser.github.io/anchorage-museum/">Deep Sleep / Meditation Aid, Project for Anchorage Museum Performance (project link)<br>ES5 Script by Tom Betthauser, Images Collected with Thomas Chung, 2018</a>',
 		'<a target="_blank" href="https://tombetthauser.github.io/anchorage-museum/">Audio Performance / Digital Installation for Anchorage Museum (digital installation link)<br>Thomas Chung & Tom Betthauser, 2018</a>',
 		'Daruma Silhouettes / Ikea Garden, oil & acrilic on poplar, 5 x 6.5 in. 2018',
 		'Blue Screen / Mountain Man, oil on poplar, 5 x 6 in. 2018',
