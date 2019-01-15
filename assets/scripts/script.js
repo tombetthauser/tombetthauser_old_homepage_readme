@@ -12,7 +12,7 @@ var artist = {
 		'Blue Screen / Mountain Man, oil on poplar, 5 x 6.5 in. 2018',
 		'Atman Netsuke, original for concrete cast, 2 x 2 in. 2018',
 		'Atman Netsuke, original for concrete cast, 2 x 3 in. 2018',
-		'<a target="_blank" href="https://tombetthauser.github.io/numbers/">Numbers Web Project, ES5 Script / Painting / Audio by Tom Betthauser, 2018 (project link)</a>',
+		'<a target="_blank" href="https://tombetthauser.github.io/numbers/">Meditation Aid / Web Project, ES5 Script / Painting / Audio by Tom Betthauser, 2018 (project link)</a>',
 		'Bay Head (Study for Large-Scale / 6 ft. Drawing), graphite on paper, 8.5 x 11 in. 2018',
 		'Los Angeles / Samsara Heads, graphite on paper, graphite on paper, 6 x 9 in. 2017 / 18',
 		'New App Ideas / Marin Headlands (Study), oil on panel, 6 x 6 in. 2018',
