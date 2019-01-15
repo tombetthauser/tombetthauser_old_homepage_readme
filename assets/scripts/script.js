@@ -31,7 +31,7 @@ var artist = {
 		'Planet Study, acrylic on panel, 3 x 4.5 in. 2015 / 16',
 		'Daruma Grid, graphite on office-paper, 5 x 7 in. 2016',
 		'Bakersfield Office Installation, graphite / artist\'s frame / found material, 2016',
-		'VD03-FA16, all models / textures / sound produced by artist in collaboration Bret Ward, 2016 (<a target="_blank" href="https://drive.google.com/file/d/0B0i92gIfB6BKcDNBLXBqSHRkaUk/view">video link</a>)',
+		'<a target="_blank" href="https://drive.google.com/file/d/0B0i92gIfB6BKcDNBLXBqSHRkaUk/view">VD03-FA16, all models / textures / sound produced by artist in collaboration Bret Ward, 2016 (video link)</a>',
 		'Installation shot, San Francisco Art Institute, 3rd St. Studio Fellowship (program link), 2016',
 		'Cleric_0.2[cast1], 4"x 5" concrete cast of original sculpture / hand-woven mat, 2016',
 		'Cleric(s)_0.2, 4"x 5" concrete cast & original sculpture (left) / hand-woven mats, 2016',
