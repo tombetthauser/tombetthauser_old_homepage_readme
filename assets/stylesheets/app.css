@@ -230,3 +230,32 @@ a#t-nav-link-mobile {
 #cvContainer h5 {
   margin: 2em 0 .75em 0;
 }
+
+
+/*–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+
+
+.animation0 {
+}
+
+.animation1 {
+  animation: rollOne 20s;
+}
+
+@keyframes rollOne {
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(0deg);}
+  99% {transform: rotate(-3deg);}
+  100% {transform: rotate(0deg);}
+}
+
+.animation2 {
+  animation: rollTwo 20s;
+}
+
+@keyframes rollTwo {
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(0deg);}
+  99% {transform: rotate(3deg);}
+  100% {transform: rotate(0deg);}
+}

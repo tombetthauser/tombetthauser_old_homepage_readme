@@ -1,6 +1,7 @@
-var displayNames = true;
+const displayNames = true;
+const randomAnimationNumber = (Math.round(Math.random()*1)+1);
 
-var artist = {
+const artist = {
 	name: {
 		first: 'Tom',
 		last: 'Betthauser'
@@ -257,7 +258,6 @@ loadCV();
 
 // functions -
 
-
 function loadTitle() {
 	$("head").prepend(
   		'<title>' + artist.name.first + ' ' + artist.name.last + '</title>'
@@ -266,7 +266,32 @@ function loadTitle() {
 
 function loadNavbar() {
 	$("body").prepend(
-	  	'<nav class="t-nav2-container navbar navbar-default hidden-lg hidden-md hidden-sm">'
+		'<div class="col-xs-0 col-sm-1 col-md-2 col-lg-3"></div>'
+		+ '<div class="col-xs-12 col-sm-10 col-md-8 col-lg-6">'
+		+ 		'<div class="t-nav1-container hidden-xs animation' + randomAnimationNumber + '">'
+		+ 			'<div class="row">'
+		+ 				'<div class="col-xs-12">'
+		+ 					'<a href="../../index.html"><h3 class="t-center" id="t-title-1">' + artist.name.first + ' ' + artist.name.last + '</h3></a>'
+		+ 				'</div>'
+		+ 			'</div>'
+		+ 			'<div class="row">'
+		+ 				'<div class="col-xs-12">'
+		+ 					'<div class="t-center" id="t-nav-links">'
+		+ 						'<a href="../../index.html"><span class="t-left-cap"> home </a>'
+		+ 						'<span class="t-slash">/</span>'
+		+ 						'<a href="../../assets/pages/images.html"> images </a>'
+		+ 						'<span class="t-slash">/</span>'
+		+ 						'<a target="_blank" href="https://tombetthauser.bandcamp.com/"> sound </a>'
+		+ 						'<span class="t-slash">/</span>'
+		+ 						'<a target="_blank" href="../../assets/pdfs/cv.pdf"> information </a>'
+		+ 					'</div>'
+		+ 				'</div>'
+		+ 			'</div>'
+		+ 		'</div>'
+		+ 	'<div id="container"></div>'
+ 		+ 	'<br><br><br>'
+		+ '</div>'
+	  	+ '<nav class="t-nav2-container navbar navbar-default hidden-lg hidden-md hidden-sm">'
 		+  '<div class="container-fluid" id="t-navbar-white">'
 		+    '<div class="navbar-header">'
 		+      '<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">'
@@ -293,15 +318,15 @@ function loadNavbar() {
 function loadImages() {
 	for(i = artist.work.length; i > 0 ; i--){
 		  $("#container").append(
-				"<a target='new' href='../../assets/images/portfolio/full/"
+				"<div class='animation" + randomAnimationNumber + "'><a target='new' href='../../assets/images/portfolio/full/"
 				+ (i)
 				+ ".jpg'><img src='../../assets/images/portfolio/thumb/"
 				+ (i)
-				+ ".jpg'></a>"
+				+ ".jpg'></a></div>"
 			)
 	    if (displayNames === true) {
 		  $("#container").append(
-				"<p class='t-title-etc'>"
+				"<p class='t-title-etc animation" + randomAnimationNumber + "'>"
 				+ artist.work[artist.work.length-(i)]
 				+ "</p>"
 	  		)
