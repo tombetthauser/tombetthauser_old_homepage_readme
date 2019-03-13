@@ -1,4 +1,5 @@
 var displayNames = true;
+var randomAnimationNumber = (Math.round(Math.random()*1)+1);
 
 var artist = {
 	name: {
@@ -293,15 +294,15 @@ function loadNavbar() {
 function loadImages() {
 	for(i = artist.work.length; i > 0 ; i--){
 		  $("#container").append(
-				"<a target='new' href='../../assets/images/portfolio/full/"
+				"<div class='animation" + randomAnimationNumber + "'><a target='new' href='../../assets/images/portfolio/full/"
 				+ (i)
 				+ ".jpg'><img src='../../assets/images/portfolio/thumb/"
 				+ (i)
-				+ ".jpg'></a>"
+				+ ".jpg'></a></div>"
 			)
 	    if (displayNames === true) {
 		  $("#container").append(
-				"<p class='t-title-etc'>"
+				"<p class='t-title-etc animation" + randomAnimationNumber + "'>"
 				+ artist.work[artist.work.length-(i)]
 				+ "</p>"
 	  		)
