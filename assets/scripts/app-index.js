@@ -1,8 +1,7 @@
 var fSpeed = false;
 var tFast = (Math.random() * 10000) + 1000;
 var tSlow = (Math.random() * 600000) + 100000;
-var r = "https://tombetthauser.github.io/anchorage-museum/"
-// var r = "https://tombetthauser.github.io/hub/"
+var r = "http://www.unknowablesymbols.com"
 var t;
 
 if(fSpeed === true){
