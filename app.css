@@ -20,8 +20,6 @@ a {
 
 a:hover {
   text-decoration: underline;
-  animation: cursor 1s;
-  animation-iteration-count: infinite;
 }
 
 #container-01 { 
@@ -50,12 +48,4 @@ a:hover {
     80% { transform: translate(-.25px, -.25px);   letter-spacing: .25px;}
     90% { transform: translate(.25px, .15px);   letter-spacing: .15px;}
     100% { transform: translate(.25px, -.15px);   letter-spacing: .2px;}
-}
-
-@keyframes cursor {
-    20% { cursor: pointer; }
-    40% { cursor: grab; }
-    60% { cursor: grabbing; }
-    80% { cursor: grab; }
-    100% { cursor: grabbing; }
 }
