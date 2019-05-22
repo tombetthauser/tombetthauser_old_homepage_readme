@@ -27,7 +27,7 @@ a:hover {
 }
 
 .two {
-  animation: vibTwo 0.2s;
+  animation: vibTwo 0.4s;
   animation-iteration-count: infinite;
 }
 
