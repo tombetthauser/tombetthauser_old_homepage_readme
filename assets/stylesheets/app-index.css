@@ -97,7 +97,7 @@ button {
 	width: 500px;
 	max-width: 70%;
     /*animation: shake 0.2s;*/
-    animation: fade 60s;
+    animation: fade 240s;
     animation-iteration-count: infinite;
     -webkit-filter: blur(0px);
     filter: blur(0px);

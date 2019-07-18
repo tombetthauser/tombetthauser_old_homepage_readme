@@ -17,7 +17,7 @@ window.onkeyup = function(e) {
    }
 }
 
-setInterval(function(){
-	window.location = r;
-}, t);
+// setInterval(function(){
+// 	window.location = r;
+// }, t);
 
