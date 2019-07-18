@@ -96,17 +96,25 @@ button {
 	padding-bottom: 1%;
 	width: 500px;
 	max-width: 70%;
-    animation: shake 0.2s;
+    /*animation: shake 0.2s;*/
+    animation: fade 60s;
     animation-iteration-count: infinite;
     -webkit-filter: blur(0px);
     filter: blur(0px);
-    transition: 1s;
+    transition: 0s;
+    opacity: 0;
 }
 
 #vibrate:hover {
-    -webkit-filter: blur(5px);
+/*	animation: none;
+	opacity: 1;
+	-webkit-filter: blur(0px);
+	filter: blur(0px);
+	transition: 0s;*/
+
+    /*-webkit-filter: blur(5px);
     filter: blur(5px);
-    transition: 10s;
+    transition: 10s;*/
 }
 
 @keyframes shake {
@@ -122,3 +130,10 @@ button {
     90% { transform: translate(1px, 2px) rotate(0deg); }
     100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
+
+@keyframes fade {
+    0% { opacity: 1; -webkit-filter: blur(0px); filter: blur(0px);}
+    80% { opacity: 1; -webkit-filter: blur(0px); filter: blur(0px);}
+    90% { opacity: .75; -webkit-filter: blur(2px); filter: blur(2px);}
+    100% { opacity: 1; -webkit-filter: blur(0px); filter: blur(0px);}
+}*/
