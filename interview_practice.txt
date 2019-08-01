@@ -1,0 +1,77 @@
+# 	Practice Interview Questions
+# 	(for non-technical interview practice)
+# 	(mostly taken from => https://www.thebalancecareers.com/behavioral-job-interview-questions-2059620)
+
+
+
+
+
+
+
+
+
+#    Outline your career and what brought you to your current position.
+#    
+#    Give an example of an occasion when you used logic to solve a problem.
+#    
+#    Give an example of a goal you reached and tell me how you achieved it.
+#    
+#    Give an example of a goal you didn't meet and how you handled it.
+#    
+#    Describe a stressful situation at work and how you handled it.
+#    
+#    Tell me about how you worked effectively under pressure.
+#    
+#    How do you handle a challenge?
+#    
+#    Have you been in a situation where you didn't have enough work to do?
+#    
+#    Have you ever made a mistake? How did you handle it?
+#    
+#    Describe a decision you made that was unpopular and how you handled implementing it.
+#
+#    Did you ever make a risky decision? Why? How did you handle it?
+#    
+#    Did you ever postpone making a decision? Why?
+#    
+#    Have you ever dealt with company policy you weren't in agreement with? How?
+#    
+#    Have you gone above and beyond the call of duty? If so, how?
+#    
+#    When you worked on multiple projects how did you prioritize?
+#    
+#    How did you handle meeting a tight deadline?
+#    
+#    Give an example of how you set goals and achieve them.
+#    
+#    Did you ever not meet your goals? Why?
+#    
+#    What do you do when your schedule is interrupted? Give an example of how you handle it.
+#    
+#    Have you had to convince a team to work on a project they weren't thrilled about? How did you do it?
+#    
+#    Give an example of how you've worked on a team.
+#    
+#    Have you handled a difficult situation with a co-worker? How?
+#    
+#    What do you do if you disagree with a co-worker?
+#    
+#    Share an example of how you were able to motivate employees or co-workers.
+#    
+#    Do you listen? Give an example of when you did or when you didn't listen.
+#    
+#    Have you handled a difficult situation with a supervisor? How?
+#    
+#    Have you handled a difficult situation with another department? How?
+#    
+#    Have you handled a difficult situation with a client or vendor? How?
+#    
+#    What do you do if you disagree with your boss?
+
+
+# The STAR technique is a useful strategy for responding to interview questions that require an anecdote. It’s an excellent way to organize your thoughts. # There are four steps to answering using this technique: 
+
+    # (S) Situation. Describe the situation in which the event took place.
+    # (T) Task. Describe the task you were asked to complete. If there was a particular problem or issue you were trying to solve, describe that here.
+    # (A) Action. Explain what action you took to complete the task or solve the problem.
+    # (R) Results. Explain the result of your actions. For example, if your actions resulted in completing a task, resolving a conflict, improving your company’s sales record, etc., explain this. Try to focus on how your actions resulted in a success for the company.
