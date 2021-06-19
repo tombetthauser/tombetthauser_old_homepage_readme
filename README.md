@@ -1,5 +1,5 @@
 # Hello there!
 
-### [👥 : linkedin](https://www.linkedin.com/in/tombetthauser/)
-### [📷 : instagram](http://instagram.com/tombetthauser/)
-### [🔊 : bandcamp](http://bandcamp.com/tombetthauser)
+### [👤 Linkedin](https://www.linkedin.com/in/tombetthauser/)
+### [📷 Instagram](http://instagram.com/tombetthauser/)
+### [📣 Bandcamp](http://bandcamp.com/tombetthauser)
