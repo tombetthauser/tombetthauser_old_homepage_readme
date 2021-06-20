@@ -1,5 +1,10 @@
-# Hello there!
+# hello there!
 
-### [👤 Linkedin](https://www.linkedin.com/in/tombetthauser/)
-### [📷 Instagram](http://instagram.com/tombetthauser/)
-### [📣 Bandcamp](http://bandcamp.com/tombetthauser)
+[linkedin.com/tombetthauser](https://www.linkedin.com/in/tombetthauser/)
+
+[instagram.com/tombetthauser](http://instagram.com/tombetthauser/)
+
+[bandcamp.com/tombetthauser](http://bandcamp.com/tombetthauser)
+
+
+<!-- [artslackernews.herokuapp.com](artslackernews.herokuapp.com/) -->
