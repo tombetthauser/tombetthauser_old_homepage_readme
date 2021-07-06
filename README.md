@@ -10,9 +10,9 @@
 
 ### Some Project Links
 
-* MFA Hole / Forum for Visual Artists <br/> [Project Site Link](https://artslackernews.herokuapp.com/)
-* SotA Survey / Visual Artists Survey Data <br/> [Project Site Link](http://www.sotasurvey.org/2019)
-* Resources for Artists Getting into Tech <br/> [Repo Link](https://github.com/tombetthauser/artists-in-tech-resources)
+* [MFA Hole](https://artslackernews.herokuapp.com/) | Forum for Visual Artists
+* [SotA Survey](http://www.sotasurvey.org/2019) | Visual Artists Survey Data
+* [Resources for Artists Getting into Tech](https://github.com/tombetthauser/artists-in-tech-resources) | Links & Discord
 
 <!-- 
 ### Older Project Links
