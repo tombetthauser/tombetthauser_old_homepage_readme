@@ -2,7 +2,7 @@
 
 # Tom Betthauser
 
-[Linkedin](https://www.linkedin.com/in/tombetthauser/) | [Instagram](http://instagram.com/tombetthauser/) | [Bandcamp](http://tombetthauser.bandcamp.com/)
+[Linkedin](https://www.linkedin.com/in/tombetthauser/) | [Instagram](http://instagram.com/tombetthauser/) | [Bandcamp](http://tombetthauser.bandcamp.com/) | [Resources for Artists Getting into Tech](https://github.com/tombetthauser/artists-in-tech-resources)
 
 <!-- 📄 [Linkedin](https://www.linkedin.com/in/tombetthauser/) | 📷 [Instagram](http://instagram.com/tombetthauser/) | 📣 [Bandcamp](http://tombetthauser.bandcamp.com/) -->
 
@@ -12,7 +12,7 @@
 
 <!-- * [MFA Hole](https://mfahole.herokuapp.com/) | Forum for Visual Artists -->
 <!-- * [SotA Survey](http://www.sotasurvey.org/2019) | Visual Artists Survey Data + Desktop App -->
-[Resources for Artists Getting into Tech](https://github.com/tombetthauser/artists-in-tech-resources) | Links & Discord
+<!-- * [Resources for Artists Getting into Tech](https://github.com/tombetthauser/artists-in-tech-resources) | Links & Discord -->
 
 <!-- 
 ### Older Project Links
