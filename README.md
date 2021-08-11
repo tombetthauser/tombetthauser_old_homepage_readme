@@ -8,10 +8,10 @@
 
 <!-- [artslackernews.herokuapp.com](artslackernews.herokuapp.com/) -->
 
-### Some Project Links
+<!-- ### Some Project Links -->
 
-* [MFA Hole](https://mfahole.herokuapp.com/) | Forum for Visual Artists
-* [SotA Survey](http://www.sotasurvey.org/2019) | Visual Artists Survey Data + Desktop App
+<!-- * [MFA Hole](https://mfahole.herokuapp.com/) | Forum for Visual Artists -->
+<!-- * [SotA Survey](http://www.sotasurvey.org/2019) | Visual Artists Survey Data + Desktop App -->
 * [Resources for Artists Getting into Tech](https://github.com/tombetthauser/artists-in-tech-resources) | Links & Discord
 
 <!-- 
