@@ -2,7 +2,7 @@
 
 # Tom Betthauser
 
-[Linkedin](https://www.linkedin.com/in/tombetthauser/) | [Instagram](http://instagram.com/tombetthauser/) | [Bandcamp](http://tombetthauser.bandcamp.com/) | [Substack](https://tombetthauser.substack.com/) | [Resources for Artists Getting into Tech](https://github.com/tombetthauser/artists-in-tech-resources)
+[Linkedin](https://www.linkedin.com/in/tombetthauser/) | [Instagram](http://instagram.com/tombetthauser/) | [Bandcamp](http://tombetthauser.bandcamp.com/) | [Substack](https://tombetthauser.substack.com/) | [Random Resources for Artists Getting into Tech](https://github.com/tombetthauser/artists-in-tech-resources)
 
 <!-- 📄 [Linkedin](https://www.linkedin.com/in/tombetthauser/) | 📷 [Instagram](http://instagram.com/tombetthauser/) | 📣 [Bandcamp](http://tombetthauser.bandcamp.com/) -->
 
