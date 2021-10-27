@@ -1,10 +1,15 @@
-![](https://f4.bcbits.com/img/0024779428_100.png)
+<!-- ![](https://f4.bcbits.com/img/0024779428_100.png) -->
+![](https://tombetthauser.github.io/societyofobjects/assets/banner.jpg)
 
-# Tom Betthauser
+<!-- # Tom Betthauser -->
 
-[Linkedin](https://www.linkedin.com/in/tombetthauser/) | [Instagram](http://instagram.com/tombetthauser/) | [Bandcamp](http://tombetthauser.bandcamp.com/) | [Substack](https://tombetthauser.substack.com/) | [Random Resources for Artists Getting into Tech](https://github.com/tombetthauser/artists-in-tech-resources)
-
-<!-- 📄 [Linkedin](https://www.linkedin.com/in/tombetthauser/) | 📷 [Instagram](http://instagram.com/tombetthauser/) | 📣 [Bandcamp](http://tombetthauser.bandcamp.com/) -->
+## [🗿 Sculptures / Portraits](https://tombetthauser.github.io/societyofobjects/images/)
+## [🛠 Software Portfolio](https://github.com/tombetthauser/artists-in-tech-resources)
+<!-- ## [Portraits]() -->
+<!-- ## [Music](http://tombetthauser.bandcamp.com/) -->
+## [🌐 Linkedin](https://www.linkedin.com/in/tombetthauser/)<br>
+<!-- ## [Substack](https://tombetthauser.substack.com/)<br> -->
+## [📖 Resources](https://github.com/tombetthauser/artists-in-tech-resources)
 
 <!-- [artslackernews.herokuapp.com](artslackernews.herokuapp.com/) -->
 
