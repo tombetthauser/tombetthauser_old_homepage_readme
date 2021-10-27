@@ -5,7 +5,6 @@
 
 ## [🗿 Sculptures / Portraits](https://tombetthauser.github.io/societyofobjects/images/)
 ## [🛠 Software Portfolio](https://github.com/tombetthauser/artists-in-tech-resources)
-<!-- ## [Portraits]() -->
 <!-- ## [Music](http://tombetthauser.bandcamp.com/) -->
 ## [🌐 Linkedin](https://www.linkedin.com/in/tombetthauser/)<br>
 <!-- ## [Substack](https://tombetthauser.substack.com/)<br> -->
