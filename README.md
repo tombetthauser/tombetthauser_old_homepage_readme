@@ -3,7 +3,7 @@
 
 <!-- # Tom Betthauser -->
 
-## [🗿 Art Projects](https://tombetthauser.github.io/societyofobjects/images/)
+## [🗿 Sculpture / Drawing Projects](https://tombetthauser.github.io/societyofobjects/images/)
 ## [🛠 Software Projects](https://tombetthauser.com/dev)
 <!-- ## [Music](http://tombetthauser.bandcamp.com/) -->
 ## [🌐 Linkedin](https://www.linkedin.com/in/tombetthauser/)<br>
