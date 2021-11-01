@@ -3,8 +3,8 @@
 
 <!-- # Tom Betthauser -->
 
-## [🗿 Sculptures / Portraits](https://tombetthauser.github.io/societyofobjects/images/)
-## [🛠 Software Portfolio](https://github.com/tombetthauser/artists-in-tech-resources)
+## [🗿 Confusing Art Portfolio](https://tombetthauser.github.io/societyofobjects/images/)
+## [🛠 Software Portfolio](https://tombetthauser.com/dev)
 <!-- ## [Music](http://tombetthauser.bandcamp.com/) -->
 ## [🌐 Linkedin](https://www.linkedin.com/in/tombetthauser/)<br>
 <!-- ## [Substack](https://tombetthauser.substack.com/)<br> -->
