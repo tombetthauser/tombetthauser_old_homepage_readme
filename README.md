@@ -1,5 +1,5 @@
 <!-- ![](https://f4.bcbits.com/img/0024779428_100.png) -->
-![](https://tombetthauser.github.io/societyofobjects/assets/banner.jpg)
+<!-- ![](https://tombetthauser.github.io/societyofobjects/assets/banner.jpg) -->
 
 <!-- # Tom Betthauser -->
 
