@@ -3,12 +3,19 @@
 
 <!-- # Tom Betthauser -->
 
-## [🗿 Sculpture / Drawing Stuff](https://tombetthauser.github.io/societyofobjects/images/)
+
+<!-- ## [🗿 Sculpture / Drawing Stuff](https://tombetthauser.github.io/societyofobjects/images/)
 ## [🛠 Software Projects](https://tombetthauser.com/dev)
 ## [🎷 Bad Sounds](http://tombetthauser.bandcamp.com/)
 ## [🌐 Linkedin](https://www.linkedin.com/in/tombetthauser/)
+## [📖 Artist Resources](https://github.com/tombetthauser/artists-in-tech-resources) -->
+
+## [Sculpture / Drawing Stuff](https://tombetthauser.github.io/societyofobjects/images/)
+## [Software Projects](https://tombetthauser.com/dev)
+## [Bad Sounds](http://tombetthauser.bandcamp.com/)
+## [Linkedin](https://www.linkedin.com/in/tombetthauser/)
 <!-- ## [Substack](https://tombetthauser.substack.com/)<br> -->
-## [📖 Artist Resources](https://github.com/tombetthauser/artists-in-tech-resources)
+## [Artist Resources](https://github.com/tombetthauser/artists-in-tech-resources)
 
 <!-- [artslackernews.herokuapp.com](artslackernews.herokuapp.com/) -->
 
