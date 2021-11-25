@@ -10,7 +10,8 @@
 ## [🌐 Linkedin](https://www.linkedin.com/in/tombetthauser/)
 ## [📖 Artist Resources](https://github.com/tombetthauser/artists-in-tech-resources) -->
 
-## [Sculpture / Drawing Stuff](https://tombetthauser.github.io/societyofobjects/images/)
+## [Sculpture / Drawing Stuff](https://instagram.com/tombetthauser)
+<!-- ## [Sculpture / Drawing Stuff](https://tombetthauser.github.io/societyofobjects/images/) -->
 ## [Software Projects](https://tombetthauser.com/dev)
 ## [Bad Sounds](http://tombetthauser.bandcamp.com/)
 ## [Linkedin](https://www.linkedin.com/in/tombetthauser/)
