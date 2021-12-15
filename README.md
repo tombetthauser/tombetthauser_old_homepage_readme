@@ -3,7 +3,9 @@
 
 <!-- # Tom Betthauser -->
 
-## [Portfolio Page](https://www.tombetthauser.com/) | [Pixelfed](https://www.linkedin.com/in/tombetthauser/) | [Linkedin](https://www.linkedin.com/in/tombetthauser/)
+## [Portfolio Page](https://www.tombetthauser.com/)
+## [Pixelfed](https://www.linkedin.com/in/tombetthauser/)
+## [Linkedin](https://www.linkedin.com/in/tombetthauser/)
 
 
 
