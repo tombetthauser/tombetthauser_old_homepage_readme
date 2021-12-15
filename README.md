@@ -3,6 +3,9 @@
 
 <!-- # Tom Betthauser -->
 
+## [Portfolio Page](https://www.tombetthauser.com/) | [Pixelfed](https://www.linkedin.com/in/tombetthauser/) | [Linkedin](https://www.linkedin.com/in/tombetthauser/)
+
+
 
 <!-- ## [🗿 Sculpture / Drawing Stuff](https://tombetthauser.github.io/societyofobjects/images/)
 ## [🛠 Software Projects](https://tombetthauser.com/dev)
@@ -10,13 +13,13 @@
 ## [🌐 Linkedin](https://www.linkedin.com/in/tombetthauser/)
 ## [📖 Artist Resources](https://github.com/tombetthauser/artists-in-tech-resources) -->
 
-## [Sculpture / Drawing Stuff](http://instagram.com/tombetthauser/)
+<!-- ## [Sculpture / Drawing Stuff](http://instagram.com/tombetthauser/) -->
 <!-- ## [Sculpture / Drawing Stuff](https://tombetthauser.github.io/societyofobjects/images/) -->
-## [Software Projects](https://tombetthauser.com/dev)
-## [Bad Sounds](http://tombetthauser.bandcamp.com/)
-## [Linkedin](https://www.linkedin.com/in/tombetthauser/)
+<!-- ## [Software Projects](https://tombetthauser.com/dev) -->
+<!-- ## [Bad Sounds](http://tombetthauser.bandcamp.com/) -->
+<!-- ## [Linkedin](https://www.linkedin.com/in/tombetthauser/) -->
 <!-- ## [Substack](https://tombetthauser.substack.com/)<br> -->
-## [Artist Resources](https://github.com/tombetthauser/artists-in-tech-resources)
+<!-- ## [Artist Resources](https://github.com/tombetthauser/artists-in-tech-resources) -->
 
 <!-- [artslackernews.herokuapp.com](artslackernews.herokuapp.com/) -->
 
